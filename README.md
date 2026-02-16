@@ -1,5 +1,5 @@
 # 💫 About Me:
-Penetration Testing | Bug Bounty Hunter<br>eJPT / OSCP
+Penetration Testing | Bug Bounty Hunter<br>eJPT / eWPT
 
 
 ## 🌐 Socials:
