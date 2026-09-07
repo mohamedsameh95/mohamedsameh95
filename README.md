@@ -1,5 +1,5 @@
 # 💫 About Me:
-Penetration Testing | Bug Bounty Hunter<br>eJPT / eWPT
+GRC Engineer | Penetration Tester
 
 
 ## 🌐 Socials:
